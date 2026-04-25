@@ -1,0 +1,290 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_id": "139501ae-7e17-49dc-a251-7c8389ccb61d",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "character",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "丹童浩一",
+      "content": "丹童浩一：高二学生/半退隐轻小说家。前世是孤独死去的社畜，重生后被春日野夫妇收养，终于体会到家庭温暖。然而养父母与原著的悠依然在旅行中失事，他拼命阻拦却无济于事。面对恶鬼般的亲戚，他带着穹独立生活。为了养家，他利用前世记忆抄书、投资，迅",
+      "summary": "前世是孤独死去的社畜，重生后被春日野夫妇收养，终于体会到家庭温暖。然而养父母与原著的悠依然在旅行中失事，他拼命阻拦却无济于事。面对恶鬼般的亲戚，他带着穹独立生活。为了养家，他利用前世记忆抄书、投资，迅",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T13:29:19.662887+00:00",
+      "updated_at": "2026-04-24T13:29:19.662909+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 1.0,
+      "extra": {
+        "is_protagonist": true,
+        "relationship_map": {}
+      },
+      "id": "139501ae-7e17-49dc-a251-7c8389ccb61d"
+    },
+    {
+      "node_id": "2d13cf6a-4f93-4d64-8012-fcafa353bc8a",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "character",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "春日野穹",
+      "content": "春日野穹：义妹/相依为命的家人。父母双亡后与浩一相依为命，在浩一的开解下走出了阴影，但将全部的情感寄托在了浩一身上，拒绝任何试图分开他们的人。",
+      "summary": "父母双亡后与浩一相依为命，在浩一的开解下走出了阴影，但将全部的情感寄托在了浩一身上，拒绝任何试图分开他们的人。",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T13:29:19.666184+00:00",
+      "updated_at": "2026-04-24T13:29:19.666212+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.8,
+      "extra": {
+        "is_protagonist": false,
+        "npc_type": "companion",
+        "appearance": "银白色的长发，肌肤苍白如雪，常抱着一个黑色的兔子玩偶。",
+        "relationship_map": {
+          "丹童浩一": "义妹/相依为命的家人"
+        }
+      },
+      "id": "2d13cf6a-4f93-4d64-8012-fcafa353bc8a"
+    },
+    {
+      "node_id": "706cc2f9-8216-4fdf-aaea-4b45fedfcec7",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "character",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "五更琉璃 (黑猫)",
+      "content": "五更琉璃 (黑猫)：网友/密切的朋友。在网游中与浩一结识，两人常常在线上组队并讨论二次元作品，是浩一少数能毫无负担交流的同龄人。",
+      "summary": "在网游中与浩一结识，两人常常在线上组队并讨论二次元作品，是浩一少数能毫无负担交流的同龄人。",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T13:29:19.669803+00:00",
+      "updated_at": "2026-04-24T13:29:19.669826+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.8,
+      "extra": {
+        "is_protagonist": false,
+        "npc_type": "neutral",
+        "appearance": "黑发黑瞳，常穿着哥特萝莉装，眼神有些锐利。",
+        "relationship_map": {
+          "丹童浩一": "网友/密切的朋友"
+        }
+      },
+      "id": "706cc2f9-8216-4fdf-aaea-4b45fedfcec7"
+    },
+    {
+      "node_id": "847e7c9e-9a0f-4fa4-b5c8-09ae0c859df0",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "character",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "丹童浩一",
+      "content": "高二B班学生，坐在靠窗倒数第二排。未购买过脑显设备。在数学课上意外绑定了神秘系统，熟悉轻小说套路，对王道展开感到兴奋。",
+      "summary": "高二B班学生，坐在靠窗倒数第二排。未购买过脑显设备。在数学课上意外绑定了神秘系统，熟悉轻小说套路，对王道展开感到兴奋。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_12c5ac18",
+      "created_at": "2026-04-24T14:01:27.920801+00:00",
+      "updated_at": "2026-04-24T14:01:27.929304+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 1.0,
+      "extra": {
+        "is_protagonist": true,
+        "knowledge_scope": "知道脑机接口技术，熟悉轻小说系统流套路",
+        "trait_lock": [],
+        "capability_cap": "普通高中生（刚绑定系统）"
+      },
+      "id": "847e7c9e-9a0f-4fa4-b5c8-09ae0c859df0"
+    },
+    {
+      "node_id": "b8479eb8-b9c8-413d-9845-b8a4370b81ed",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "event",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "系统觉醒",
+      "content": "丹童浩一在数学课上发现视野中浮现半透明蓝色面板，显示“系统初始化完成。宿主绑定确认”，随后获得绑定奖励并查看状态，确认能力评级0★、M积分0、技能栏空。他意识到这正是轻小说中常见的校园觉醒套路，内心激动但表面克制。",
+      "summary": "丹童浩一在数学课上发现视野中浮现半透明蓝色面板，显示“系统初始化完成。宿主绑定确认”，随后获得绑定奖励并查看状态，确认能力评级0★、M积分0、技能栏空。他意识到这正是轻小说中常见的校园觉醒套路，内心激动但表面克制。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_12c5ac18",
+      "created_at": "2026-04-25T14:30:57.062174+00:00",
+      "updated_at": "2026-04-25T14:30:57.062242+00:00",
+      "scope_owner": "",
+      "confidence": 0.95,
+      "importance": 0.9,
+      "extra": {
+        "participants": [
+          "丹童浩一"
+        ],
+        "location": "高二B班教室",
+        "outcome": "系统绑定成功，状态面板开启"
+      },
+      "id": "b8479eb8-b9c8-413d-9845-b8a4370b81ed"
+    },
+    {
+      "node_id": "00fd8a21-3311-4c62-af2f-8e0782bc6c3a",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "rule",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "系统基础操作",
+      "content": "宿主可通过默念“状态”来查看个人信息面板，显示姓名、能力评级、M积分与技能栏。面板仅有宿主可见，无实体触感，阳光不会投射影子。系统在觉醒时自动发放绑定奖励。",
+      "summary": "宿主可通过默念“状态”来查看个人信息面板，显示姓名、能力评级、M积分与技能栏。面板仅有宿主可见，无实体触感，阳光不会投射影子。系统在觉醒时自动发放绑定奖励。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_12c5ac18",
+      "created_at": "2026-04-25T14:30:57.062198+00:00",
+      "updated_at": "2026-04-25T14:30:57.065426+00:00",
+      "scope_owner": "",
+      "confidence": 0.9,
+      "importance": 0.8,
+      "extra": {
+        "source_world": "未知世界",
+        "rule_category": "系统机制",
+        "strictness": "固定规则"
+      },
+      "id": "00fd8a21-3311-4c62-af2f-8e0782bc6c3a"
+    },
+    {
+      "node_id": "d171c7c0-a451-4c10-a75f-cb8f43c26537",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "location",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "高二B班教室",
+      "content": "丹童浩一所在班级的教室，靠窗倒数第二排是他的座位。窗外可见操场边的银杏树，叶子开始发黄。教室在数学课时阳光充足，粉笔灰悬浮可见。气氛正常，无人察觉系统面板。",
+      "summary": "丹童浩一所在班级的教室，靠窗倒数第二排是他的座位。窗外可见操场边的银杏树，叶子开始发黄。教室在数学课时阳光充足，粉笔灰悬浮可见。气氛正常，无人察觉系统面板。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_12c5ac18",
+      "created_at": "2026-04-25T14:30:57.062208+00:00",
+      "updated_at": "2026-04-25T14:30:57.067454+00:00",
+      "scope_owner": "",
+      "confidence": 0.9,
+      "importance": 0.6,
+      "extra": {
+        "region": "学校",
+        "is_current_scene": true
+      },
+      "id": "d171c7c0-a451-4c10-a75f-cb8f43c26537"
+    },
+    {
+      "node_id": "65831e6e-f729-4a0f-a18f-39f90eba6127",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "character",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "丹童浩一",
+      "content": "高二B班学生，坐在靠窗倒数第二排。刚觉醒系统，能力评级0★，M积分0，技能栏空。他平时看轻小说、追网文，对突然出现的系统面板既震惊又兴奋，表面维持平静。今早出门时头发翘起未压下。他在三个月前换过第四代脑显，但系统面板并非脑显应用。",
+      "summary": "高二B班学生，坐在靠窗倒数第二排。刚觉醒系统，能力评级0★，M积分0，技能栏空。他平时看轻小说、追网文，对突然出现的系统面板既震惊又兴奋，表面维持平静。今早出门时头发翘起未压下。他在三个月前换过第四代脑显，但系统面板并非脑显应用。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_12c5ac18",
+      "created_at": "2026-04-25T14:30:57.062216+00:00",
+      "updated_at": "2026-04-25T14:30:57.069834+00:00",
+      "scope_owner": "",
+      "confidence": 0.9,
+      "importance": 0.8,
+      "extra": {
+        "trait_lock": "冷静外表下内心躁动",
+        "knowledge_scope": "轻小说套路、脑机接口常识",
+        "capability_cap": "0★能力评级",
+        "is_protagonist": true
+      },
+      "id": "65831e6e-f729-4a0f-a18f-39f90eba6127"
+    },
+    {
+      "node_id": "94cde631-da50-4565-8b96-fbe254f3e2d0",
+      "novel_id": "12c5ac18-2005-491c-b0da-1ec827bff09b",
+      "node_type": "reflection",
+      "world_key": "综漫日常-灵气复苏/妖怪/阴阳师",
+      "title": "对系统觉醒的初始感悟",
+      "content": "浩一迅速将眼前的蓝色面板与自己读过的大量轻小说套路联系起来：高二开学、靠窗座位、系统面板。他感到“来了？真的来了？”，混合着怀疑与期待。他确认无人察觉后，内心承认这确实是期待已久的情境，同时强迫自己保持表面镇定，继续观察面板功能。",
+      "summary": "浩一迅速将眼前的蓝色面板与自己读过的大量轻小说套路联系起来：高二开学、靠窗座位、系统面板。他感到“来了？真的来了？”，混合着怀疑与期待。他确认无人察觉后，内心承认这确实是期待已久的情境，同时强迫自己保持表面镇定，继续观察面板功能。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_12c5ac18",
+      "created_at": "2026-04-25T14:30:57.062223+00:00",
+      "updated_at": "2026-04-25T14:30:57.071498+00:00",
+      "scope_owner": "",
+      "confidence": 0.85,
+      "importance": 0.75,
+      "extra": {
+        "trigger_event_id": "系统觉醒",
+        "growth_domain": "自我认知",
+        "insight": "将现实归于轻小说叙事，用知识经验理解异常现象"
+      },
+      "id": "94cde631-da50-4565-8b96-fbe254f3e2d0"
+    }
+  ],
+  "links": [
+    {
+      "relation": "mixed",
+      "weight": 1.0,
+      "created_at": "2026-04-24T13:29:19.667288+00:00",
+      "affinity": 100,
+      "emotion_tags": "[\"病态依赖\", \"保护欲\", \"禁忌\"]",
+      "relation_label": "义妹/相依为命的家人",
+      "source": "139501ae-7e17-49dc-a251-7c8389ccb61d",
+      "target": "2d13cf6a-4f93-4d64-8012-fcafa353bc8a"
+    },
+    {
+      "relation": "friendship",
+      "weight": 1.0,
+      "created_at": "2026-04-24T13:29:19.671147+00:00",
+      "affinity": 75,
+      "emotion_tags": "[\"共鸣\", \"轻松\"]",
+      "relation_label": "网友/密切的朋友",
+      "source": "139501ae-7e17-49dc-a251-7c8389ccb61d",
+      "target": "706cc2f9-8216-4fdf-aaea-4b45fedfcec7"
+    },
+    {
+      "relation": "mixed",
+      "weight": 1.0,
+      "created_at": "2026-04-24T13:29:19.668104+00:00",
+      "affinity": 100,
+      "emotion_tags": "[\"病态依赖\", \"保护欲\", \"禁忌\"]",
+      "relation_label": "义妹/相依为命的家人",
+      "source": "2d13cf6a-4f93-4d64-8012-fcafa353bc8a",
+      "target": "139501ae-7e17-49dc-a251-7c8389ccb61d"
+    },
+    {
+      "relation": "friendship",
+      "weight": 1.0,
+      "created_at": "2026-04-24T13:29:19.672228+00:00",
+      "affinity": 75,
+      "emotion_tags": "[\"共鸣\", \"轻松\"]",
+      "relation_label": "网友/密切的朋友",
+      "source": "706cc2f9-8216-4fdf-aaea-4b45fedfcec7",
+      "target": "139501ae-7e17-49dc-a251-7c8389ccb61d"
+    },
+    {
+      "relation": "occurred_at",
+      "weight": 1.0,
+      "created_at": "2026-04-25T14:30:57.221878+00:00",
+      "source": "b8479eb8-b9c8-413d-9845-b8a4370b81ed",
+      "target": "d171c7c0-a451-4c10-a75f-cb8f43c26537"
+    },
+    {
+      "relation": "involved_in",
+      "weight": 1.0,
+      "created_at": "2026-04-25T14:30:57.223577+00:00",
+      "source": "b8479eb8-b9c8-413d-9845-b8a4370b81ed",
+      "target": "65831e6e-f729-4a0f-a18f-39f90eba6127"
+    },
+    {
+      "relation": "involved_in",
+      "weight": 1.0,
+      "created_at": "2026-04-25T14:30:57.225008+00:00",
+      "source": "65831e6e-f729-4a0f-a18f-39f90eba6127",
+      "target": "b8479eb8-b9c8-413d-9845-b8a4370b81ed"
+    },
+    {
+      "relation": "located_in",
+      "weight": 1.0,
+      "created_at": "2026-04-25T14:30:57.226192+00:00",
+      "source": "65831e6e-f729-4a0f-a18f-39f90eba6127",
+      "target": "d171c7c0-a451-4c10-a75f-cb8f43c26537"
+    },
+    {
+      "relation": "caused_by",
+      "weight": 1.0,
+      "created_at": "2026-04-25T14:30:57.227282+00:00",
+      "source": "94cde631-da50-4565-8b96-fbe254f3e2d0",
+      "target": "b8479eb8-b9c8-413d-9845-b8a4370b81ed"
+    }
+  ]
+}

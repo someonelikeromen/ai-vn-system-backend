@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "zero-narrative-system"
+version = "0.1.0"
+description = "零度叙事多智能体小说系统 — 后端服务"
+requires-python = ">=3.11"
+dependencies = [
+    # Web 框架
+    "fastapi>=0.110.0",
+    "uvicorn[standard]>=0.29.0",
+    "python-multipart>=0.0.9",
+
+    # Agent 编排
+    "langgraph>=0.2.0",
+    "langchain-core>=0.2.0",
+
+    # LLM 统一网关
+    "litellm>=1.40.0",
+
+    # 数据库
+    "aiosqlite>=0.20.0",
+
+    # 向量数据库
+    "chromadb>=0.5.0",
+
+    # 本地嵌入模型（可选，下载时自动安装）
+    "sentence-transformers>=3.0.0",
+
+    # 图数据库
+    "networkx>=3.3",
+
+    # 中文处理
+    "jieba>=0.42.1",
+
+    # 工具类
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.7.0",
+    "pydantic-settings>=2.2.0",
+    "httpx>=0.27.0",
+    "numpy>=1.26.0",
+
+    # 日志
+    "loguru>=0.7.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0",
+    "httpx>=0.27.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["*"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

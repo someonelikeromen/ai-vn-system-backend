@@ -1,0 +1,500 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_id": "c4544621-ed95-4eeb-a495-4424d64be8ec",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "character",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "丹童浩一",
+      "content": "高中二年级学生，坐在教室后排靠窗的“男主专座”。性格上厌倦平淡如量产NPC般的日常，内心强烈渴望天降美少女或异常事件的展开。目前刚刚在课堂上觉醒了神秘系统，处于震惊状态。",
+      "summary": "高中二年级学生，坐在教室后排靠窗的“男主专座”。性格上厌倦平淡如量产NPC般的日常，内心强烈渴望天降美少女或异常事件的展开。目前刚刚在课堂上觉醒了神秘系统，处于震惊状态。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_d7830720",
+      "created_at": "2026-04-22T12:35:14.645882+00:00",
+      "updated_at": "2026-04-22T12:35:14.645940+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 1.0,
+      "extra": {
+        "is_protagonist": true,
+        "trait_lock": "渴望异常的普通高中生",
+        "knowledge_scope": "知晓自己觉醒了系统，但尚不知晓系统具体功能",
+        "relationship_map": {}
+      },
+      "id": "c4544621-ed95-4eeb-a495-4424d64be8ec"
+    },
+    {
+      "node_id": "68d8f427-45bc-4c48-8729-283e8b821a26",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "event",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "浩一觉醒系统",
+      "content": "早上7点起床洗漱后，浩一在学校上数学课时内心吐槽日常无聊。随后视网膜前突然出现半透明蓝色光幕和白色像素字体，提示“检测到宿主脑电波波动，世界线收束完毕。系统已激活”。浩一因震惊猛然坐直发出声响，并尝试伸手触摸，发现光幕无物理实体。",
+      "summary": "早上7点起床洗漱后，浩一在学校上数学课时内心吐槽日常无聊。随后视网膜前突然出现半透明蓝色光幕和白色像素字体，提示“检测到宿主脑电波波动，世界线收束完毕。系统已激活”。浩一因震惊猛然坐直发出声响，并尝试伸手触摸，发现光幕无物理实体。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_d7830720",
+      "created_at": "2026-04-22T12:35:14.645903+00:00",
+      "updated_at": "2026-04-22T12:35:14.652357+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 1.0,
+      "extra": {
+        "participants": [
+          "丹童浩一"
+        ],
+        "location": "高二教室",
+        "outcome": "系统成功激活，浩一确认其非物理存在",
+        "foreshadow_ids": []
+      },
+      "id": "68d8f427-45bc-4c48-8729-283e8b821a26"
+    },
+    {
+      "node_id": "5625f070-c262-49f8-a5cc-c23decd35f4b",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "rule",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "系统激活与显示设定",
+      "content": "系统的激活伴随“世界线收束”，触发条件与宿主的脑电波波动（如渴望改变现状的强烈情绪）有关。系统界面以半透明蓝色波纹和白色像素字体的形式直接投射在宿主视网膜/视野中，没有物理实体，无法被物理触摸干扰。",
+      "summary": "系统的激活伴随“世界线收束”，触发条件与宿主的脑电波波动（如渴望改变现状的强烈情绪）有关。系统界面以半透明蓝色波纹和白色像素字体的形式直接投射在宿主视网膜/视野中，没有物理实体，无法被物理触摸干扰。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_d7830720",
+      "created_at": "2026-04-22T12:35:14.645915+00:00",
+      "updated_at": "2026-04-22T12:35:14.654275+00:00",
+      "scope_owner": "",
+      "confidence": 0.9,
+      "importance": 0.9,
+      "extra": {
+        "source_world": "未知世界",
+        "rule_category": "系统设定",
+        "strictness": "high"
+      },
+      "id": "5625f070-c262-49f8-a5cc-c23decd35f4b"
+    },
+    {
+      "node_id": "e3ef87fc-7142-48ab-aa56-380dadfb5c56",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "location",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "高二教室",
+      "content": "丹童浩一就读的高中二年级教室。浩一的座位在后排靠窗。教室内铺设木地板，黑板上写着三角函数板书。是浩一觉醒系统的发生地。",
+      "summary": "丹童浩一就读的高中二年级教室。浩一的座位在后排靠窗。教室内铺设木地板，黑板上写着三角函数板书。是浩一觉醒系统的发生地。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_d7830720",
+      "created_at": "2026-04-22T12:35:14.645923+00:00",
+      "updated_at": "2026-04-22T12:35:14.655979+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.5,
+      "extra": {
+        "region": "学校",
+        "is_current_scene": true,
+        "connected_locations": []
+      },
+      "id": "e3ef87fc-7142-48ab-aa56-380dadfb5c56"
+    },
+    {
+      "node_id": "76d2090c-4f54-43a5-830b-bc000e5b3cf9",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "rule",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "系统视觉表现规则",
+      "content": "系统以幽蓝色波纹和半透明光幕的形式出现在宿主视网膜边缘，覆盖现实视野。提示文字为白色像素化字体。光幕没有物理实体，无法被物理触碰，且会随着宿主眼球的转动而平移，目前看来仅宿主本人可见。",
+      "summary": "系统以幽蓝色波纹和半透明光幕的形式出现在宿主视网膜边缘，覆盖现实视野。提示文字为白色像素化字体。光幕没有物理实体，无法被物理触碰，且会随着宿主眼球的转动而平移，目前看来仅宿主本人可见。",
+      "temporal_bucket": "undated",
+      "chapter_id": "runtime_d7830720",
+      "created_at": "2026-04-22T12:40:12.592932+00:00",
+      "updated_at": "2026-04-22T12:40:12.593055+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.8,
+      "extra": {
+        "source_world": "未知世界",
+        "rule_category": "系统设定",
+        "strictness": "high"
+      },
+      "id": "76d2090c-4f54-43a5-830b-bc000e5b3cf9"
+    },
+    {
+      "node_id": "8fcd802d-cce2-463e-a011-19e99b93cda7",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "character",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "丹童浩一",
+      "content": "坐在高二教室后排靠窗座位。对一成不变的日常感到极度无聊，认为周围人像量产型NPC，内心渴望天降美少女或喷火龙等超自然事件。在系统激活后表现出极大的兴奋，确信这是自己的“专属外挂”，嘴角不受控制地上扬。",
+      "summary": "坐在高二教室后排靠窗座位。对一成不变的日常感到极度无聊，认为周围人像量产型NPC，内心渴望天降美少女或喷火龙等超自然事件。在系统激活后表现出极大的兴奋，确信这是自己的“专属外挂”，嘴角不受控制地上扬。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_d7830720",
+      "created_at": "2026-04-22T12:40:12.592982+00:00",
+      "updated_at": "2026-04-22T12:40:12.596955+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.9,
+      "extra": {
+        "trait_lock": [
+          "厌恶日常",
+          "渴望异常"
+        ],
+        "knowledge_scope": [
+          "确认系统存在且无实体"
+        ],
+        "capability_cap": "普通高中生",
+        "relationship_map": {},
+        "is_protagonist": true
+      },
+      "id": "8fcd802d-cce2-463e-a011-19e99b93cda7"
+    },
+    {
+      "node_id": "b2de5c82-6b76-4260-bca0-5c123bb1c34a",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "event",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "浩一测试系统光幕",
+      "content": "浩一在课堂上抱怨日常无聊时，视网膜突然出现系统激活的提示光幕。他猛地直起身，试图用右手食指触摸光幕，却直接穿透光幕戳到了前排女生的椅背，引起对方皱眉瞪视。浩一迅速道歉，并借此确认系统无物理实体。",
+      "summary": "浩一在课堂上抱怨日常无聊时，视网膜突然出现系统激活的提示光幕。他猛地直起身，试图用右手食指触摸光幕，却直接穿透光幕戳到了前排女生的椅背，引起对方皱眉瞪视。浩一迅速道歉，并借此确认系统无物理实体。",
+      "temporal_bucket": "current",
+      "chapter_id": "runtime_d7830720",
+      "created_at": "2026-04-22T12:40:12.593015+00:00",
+      "updated_at": "2026-04-22T12:40:12.599208+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.7,
+      "extra": {
+        "participants": [
+          "丹童浩一",
+          "前排女生"
+        ],
+        "location": "高二教室",
+        "outcome": "确认系统无物理实体，仅为视觉投影",
+        "foreshadow_ids": []
+      },
+      "id": "b2de5c82-6b76-4260-bca0-5c123bb1c34a"
+    },
+    {
+      "node_id": "40a0ee5d-bca4-4f22-af43-dd6660012273",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "character",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "春日野穹",
+      "content": "春日野穹：义妹，幼年一同相依为命，逐渐产生了超越兄妹的复杂情感。春日野家次女，父母收养了浩一并视如己出。父母与兄长春日野悠在一次旅行事故中全部遇难，此后只有她和浩一相依为命。面对觊觎遗产的亲戚，浩一选择独立带着她生活，照顾与陪伴中两人建立起超越义兄妹的深厚羁绊。对浩一有着程度深入的依赖与复杂感情，两人有特殊约定。",
+      "summary": "春日野家次女，父母收养了浩一并视如己出。父母与兄长春日野悠在一次旅行事故中全部遇难，此后只有她和浩一相依为命。面对觊觎遗产的亲戚，浩一选择独立带着她生活，照顾与陪伴中两人建立起超越义兄妹的深厚羁绊。对",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T12:34:51.872141+00:00",
+      "updated_at": "2026-04-24T12:34:51.872166+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.85,
+      "extra": {
+        "is_protagonist": false,
+        "npc_type": "companion",
+        "appearance": "银发蓝瞳，外表清丽可爱，气质中带着些许冷清与孤傲，私下对浩一截然不同",
+        "relationship_map": {
+          "丹童浩一": "义妹，幼年一同相依为命，逐渐产生了超越兄妹的复杂情感"
+        },
+        "emotion_type": "mixed",
+        "emotion_tags": [
+          "亲情",
+          "依赖",
+          "暧昧",
+          "羁绊"
+        ],
+        "affinity": 98
+      },
+      "id": "40a0ee5d-bca4-4f22-af43-dd6660012273"
+    },
+    {
+      "node_id": "1c5e9b17-0093-4817-9086-dd38b42bc7b3",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "character",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "黑猫五更琉璃",
+      "content": "黑猫五更琉璃：网友，网游伙伴，高一时结识，目前最密切的朋友之一。高一时在网络上结识浩一，以网游伙伴和同为小说爱好者的身份成为密友。中二傲娇，在现实生活中是五更家的千金，但更享受网络世界中的自在。对浩一的轻小说创作（斗破苍穹、遮天等）极为欣赏，视其为难得的知音。",
+      "summary": "高一时在网络上结识浩一，以网游伙伴和同为小说爱好者的身份成为密友。中二傲娇，在现实生活中是五更家的千金，但更享受网络世界中的自在。对浩一的轻小说创作（斗破苍穹、遮天等）极为欣赏，视其为难得的知音。",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T12:34:51.875801+00:00",
+      "updated_at": "2026-04-24T12:34:51.875816+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.85,
+      "extra": {
+        "is_protagonist": false,
+        "npc_type": "companion",
+        "appearance": "黑发红瞳，外表清冷，有中二病倾向，私下话多且可爱",
+        "relationship_map": {
+          "丹童浩一": "网友，网游伙伴，高一时结识，目前最密切的朋友之一"
+        },
+        "emotion_type": "friendship",
+        "emotion_tags": [
+          "友情",
+          "趣味相投",
+          "网友情谊"
+        ],
+        "affinity": 75
+      },
+      "id": "1c5e9b17-0093-4817-9086-dd38b42bc7b3"
+    },
+    {
+      "node_id": "469e640a-9776-4777-8b48-05f5fa167f46",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "character",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "山田妖精",
+      "content": "山田妖精：轻小说作家前辈，好友，通过创作圈认识。轻小说圈内小有名气的作家，因作品相识后成为浩一的好友。见证了浩一从斗破苍穹到遮天的创作历程，也了解浩一选择半退隐享受青春的决定。",
+      "summary": "轻小说圈内小有名气的作家，因作品相识后成为浩一的好友。见证了浩一从斗破苍穹到遮天的创作历程，也了解浩一选择半退隐享受青春的决定。",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T12:34:51.879450+00:00",
+      "updated_at": "2026-04-24T12:34:51.879465+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.85,
+      "extra": {
+        "is_protagonist": false,
+        "npc_type": "companion",
+        "appearance": "普通外貌，但谈起创作时眼睛里有光",
+        "relationship_map": {
+          "丹童浩一": "轻小说作家前辈，好友，通过创作圈认识"
+        },
+        "emotion_type": "friendship",
+        "emotion_tags": [
+          "友情",
+          "业界前辈",
+          "共同爱好"
+        ],
+        "affinity": 68
+      },
+      "id": "469e640a-9776-4777-8b48-05f5fa167f46"
+    },
+    {
+      "node_id": "80d0d6d3-d007-459a-93cb-7d253545a5d6",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "character",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "平冢静",
+      "content": "平冢静：班主任老师，对浩一有基本了解。担任浩一所在班级的班主任，性格毒舌却真心关怀学生。注意到浩一与普通高中生不同的成熟气质，也知道其轻小说家的身份，对其半退隐状态暗自关注。",
+      "summary": "担任浩一所在班级的班主任，性格毒舌却真心关怀学生。注意到浩一与普通高中生不同的成熟气质，也知道其轻小说家的身份，对其半退隐状态暗自关注。",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T12:34:51.883769+00:00",
+      "updated_at": "2026-04-24T12:34:51.883784+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.85,
+      "extra": {
+        "is_protagonist": false,
+        "npc_type": "neutral",
+        "appearance": "成熟干练的女教师，偶尔流露出单身的落寞感",
+        "relationship_map": {
+          "丹童浩一": "班主任老师，对浩一有基本了解"
+        },
+        "emotion_type": "affiliated",
+        "emotion_tags": [
+          "师生关系",
+          "关照"
+        ],
+        "affinity": 55
+      },
+      "id": "80d0d6d3-d007-459a-93cb-7d253545a5d6"
+    },
+    {
+      "node_id": "a941c872-3441-413b-a97b-164f97e26002",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "character",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "四宫辉夜",
+      "content": "四宫辉夜：学生会长，有所关注但尚未深交。学校学生会长，四宫家嫡女，才貌出众性格高傲。尚未与浩一有深度交集，但浩一的淡然气质和创作名声在她的观察范围之内，对其存在有一定关注。",
+      "summary": "学校学生会长，四宫家嫡女，才貌出众性格高傲。尚未与浩一有深度交集，但浩一的淡然气质和创作名声在她的观察范围之内，对其存在有一定关注。",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T12:34:51.886445+00:00",
+      "updated_at": "2026-04-24T12:34:51.886461+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.85,
+      "extra": {
+        "is_protagonist": false,
+        "npc_type": "neutral",
+        "appearance": "黑长直，气质冷艳高贵，举手投足皆是大家风范",
+        "relationship_map": {
+          "丹童浩一": "学生会长，有所关注但尚未深交"
+        },
+        "emotion_type": "knows",
+        "emotion_tags": [
+          "同校",
+          "有所耳闻"
+        ],
+        "affinity": 40
+      },
+      "id": "a941c872-3441-413b-a97b-164f97e26002"
+    },
+    {
+      "node_id": "abef4dc6-fc2f-4305-b3c8-95313fd67b04",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "event",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "系统初次觉醒",
+      "content": "高二上学期某日上午十点十七分，丹童浩一在数学课上经历了系统首次上线。无任何征兆，半透明界面突然出现，显示M阶觉醒、积分0、观察者模式。周围人无感知。浩一用约三秒时间平复情绪，在草稿纸上写下「系统来了」，随后若无其事地继续听课。",
+      "summary": "数学课上，系统首次觉醒，丹童浩一以异常平静的态度接受了这一事实",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T13:22:28.875761+00:00",
+      "updated_at": "2026-04-24T13:22:29.034762+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 1.0,
+      "extra": {
+        "event_type": "awakening",
+        "location": "教室",
+        "time": "上午10:17",
+        "participants": [
+          "丹童浩一"
+        ],
+        "tags": [
+          "觉醒",
+          "系统上线",
+          "M阶",
+          "观察者模式"
+        ]
+      },
+      "id": "abef4dc6-fc2f-4305-b3c8-95313fd67b04"
+    },
+    {
+      "node_id": "9fc5cb41-8575-4a4b-95a2-7f39a7f32f09",
+      "novel_id": "d7830720-bb9a-41d3-9009-f38133d564c1",
+      "node_type": "event",
+      "world_key": "综漫日常+灵异/灵气复苏",
+      "title": "清晨日常：穹的半夜探床",
+      "content": "早晨六点四十分，浩一在闹钟前自然醒，发现穹在半夜摸过来同床入眠（理由是做了不好的梦）。浩一没有追问，为她掖好被角，悄悄起身晨练。早饭由穹准备，两人安静吃饭，话少而自然。",
+      "summary": "穹夜间探床，清晨两人安静共食，日常羁绊的缩影",
+      "temporal_bucket": "undated",
+      "chapter_id": "",
+      "created_at": "2026-04-24T13:22:28.875761+00:00",
+      "updated_at": "2026-04-24T13:22:29.036544+00:00",
+      "scope_owner": "",
+      "confidence": 1.0,
+      "importance": 0.6,
+      "extra": {
+        "event_type": "daily",
+        "location": "家",
+        "participants": [
+          "丹童浩一",
+          "春日野穹"
+        ],
+        "tags": [
+          "日常",
+          "穹",
+          "清晨",
+          "羁绊"
+        ]
+      },
+      "id": "9fc5cb41-8575-4a4b-95a2-7f39a7f32f09"
+    }
+  ],
+  "links": [
+    {
+      "relation": "mixed",
+      "weight": 1.0,
+      "created_at": "2026-04-24T12:34:51.873423+00:00",
+      "affinity": 98,
+      "emotion_tags": "[\"亲情\", \"依赖\", \"暧昧\", \"羁绊\"]",
+      "relation_label": "义妹，幼年一同相依为命，逐渐产生了超越兄妹的复杂情感",
+      "source": "c4544621-ed95-4eeb-a495-4424d64be8ec",
+      "target": "40a0ee5d-bca4-4f22-af43-dd6660012273"
+    },
+    {
+      "relation": "friendship",
+      "weight": 1.0,
+      "created_at": "2026-04-24T12:34:51.876799+00:00",
+      "affinity": 75,
+      "emotion_tags": "[\"友情\", \"趣味相投\", \"网友情谊\"]",
+      "relation_label": "网友，网游伙伴，高一时结识，目前最密切的朋友之一",
+      "source": "c4544621-ed95-4eeb-a495-4424d64be8ec",
+      "target": "1c5e9b17-0093-4817-9086-dd38b42bc7b3"
+    },
+    {
+      "relation": "friendship",
+      "weight": 1.0,
+      "created_at": "2026-04-24T12:34:51.880898+00:00",
+      "affinity": 68,
+      "emotion_tags": "[\"友情\", \"业界前辈\", \"共同爱好\"]",
+      "relation_label": "轻小说作家前辈，好友，通过创作圈认识",
+      "source": "c4544621-ed95-4eeb-a495-4424d64be8ec",
+      "target": "469e640a-9776-4777-8b48-05f5fa167f46"
+    },
+    {
+      "relation": "affiliated",
+      "weight": 1.0,
+      "created_at": "2026-04-24T12:34:51.884837+00:00",
+      "affinity": 55,
+      "emotion_tags": "[\"师生关系\", \"关照\"]",
+      "relation_label": "班主任老师，对浩一有基本了解",
+      "source": "c4544621-ed95-4eeb-a495-4424d64be8ec",
+      "target": "80d0d6d3-d007-459a-93cb-7d253545a5d6"
+    },
+    {
+      "relation": "knows",
+      "weight": 1.0,
+      "created_at": "2026-04-24T12:34:51.887864+00:00",
+      "affinity": 40,
+      "emotion_tags": "[\"同校\", \"有所耳闻\"]",
+      "relation_label": "学生会长，有所关注但尚未深交",
+      "source": "c4544621-ed95-4eeb-a495-4424d64be8ec",
+      "target": "a941c872-3441-413b-a97b-164f97e26002"
+    },
+    {
+      "relation": "occurred_at",
+      "weight": 1.0,
+      "created_at": "2026-04-22T12:40:12.690697+00:00",
+      "source": "8fcd802d-cce2-463e-a011-19e99b93cda7",
+      "target": "e3ef87fc-7142-48ab-aa56-380dadfb5c56"
+    },
+    {
+      "relation": "occurred_at",
+      "weight": 1.0,
+      "created_at": "2026-04-22T12:40:12.691905+00:00",
+      "source": "b2de5c82-6b76-4260-bca0-5c123bb1c34a",
+      "target": "e3ef87fc-7142-48ab-aa56-380dadfb5c56"
+    },
+    {
+      "relation": "involved_in",
+      "weight": 1.0,
+      "created_at": "2026-04-22T12:40:12.693198+00:00",
+      "source": "b2de5c82-6b76-4260-bca0-5c123bb1c34a",
+      "target": "8fcd802d-cce2-463e-a011-19e99b93cda7"
+    },
+    {
+      "relation": "mixed",
+      "weight": 1.0,
+      "created_at": "2026-04-24T12:34:51.874299+00:00",
+      "affinity": 98,
+      "emotion_tags": "[\"亲情\", \"依赖\", \"暧昧\", \"羁绊\"]",
+      "relation_label": "义妹，幼年一同相依为命，逐渐产生了超越兄妹的复杂情感",
+      "source": "40a0ee5d-bca4-4f22-af43-dd6660012273",
+      "target": "c4544621-ed95-4eeb-a495-4424d64be8ec"
+    },
+    {
+      "relation": "friendship",
+      "weight": 1.0,
+      "created_at": "2026-04-24T12:34:51.877825+00:00",
+      "affinity": 75,
+      "emotion_tags": "[\"友情\", \"趣味相投\", \"网友情谊\"]",
+      "relation_label": "网友，网游伙伴，高一时结识，目前最密切的朋友之一",
+      "source": "1c5e9b17-0093-4817-9086-dd38b42bc7b3",
+      "target": "c4544621-ed95-4eeb-a495-4424d64be8ec"
+    },
+    {
+      "relation": "friendship",
+      "weight": 1.0,
+      "created_at": "2026-04-24T12:34:51.881854+00:00",
+      "affinity": 68,
+      "emotion_tags": "[\"友情\", \"业界前辈\", \"共同爱好\"]",
+      "relation_label": "轻小说作家前辈，好友，通过创作圈认识",
+      "source": "469e640a-9776-4777-8b48-05f5fa167f46",
+      "target": "c4544621-ed95-4eeb-a495-4424d64be8ec"
+    }
+  ]
+}
